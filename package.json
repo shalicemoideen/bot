@@ -1,0 +1,16 @@
+{
+  "name": "skypebot",
+  "version": "1.0.0",
+  "description": "It is used to send messages to origanization employees",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Shalice Moideen",
+  "license": "ISC",
+  "dependencies": {
+    "botbuilder": "^3.15.0",
+    "dotenv": "^6.0.0",
+    "restify": "^7.2.1"
+  }
+}
